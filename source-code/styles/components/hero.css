@@ -81,8 +81,8 @@
 @media (min-width: 1024px) {
 
     .hero__img {
-        width: 8rem;
-        height: 8rem;
+        width: 10rem;
+        height: 10rem;
     }
 
     .hero__subtitle {
@@ -111,8 +111,8 @@
     }
 
     .hero__img {
-        width: 10rem;
-        height: 10rem;
+        width: 15rem;
+        height: 15rem;
     }
 
     .hero__subtitle {
